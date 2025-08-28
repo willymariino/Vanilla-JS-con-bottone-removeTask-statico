@@ -19,14 +19,14 @@ function removeItemById(idToRemove) {
 
 ---
 
-💡 Vedi la differenza?
+la differenza?
 
-* **Statico (questo esempio):** lista fissa, bottoni già scritti, utile solo per demo o esempi base.
-* **Dinamico (quello di prima):** lista che si aggiorna in base all’array → più vicino a React e a una vera to-do list.
+Statico (questo esempio):** lista fissa, bottoni già scritti, utile solo per demo o esempi base.
+Dinamico (quello di prima):** lista che si aggiorna in base all’array → più vicino a React e a una vera to-do list.
 
----
 
-Vuoi che ti faccia anche la versione **static HTML ma con rimozione visiva** (cioè sparisce l’elemento dall’HTML, non solo dall’array)?
+
+
 
 
 */
